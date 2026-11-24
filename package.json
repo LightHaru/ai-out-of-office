@@ -1,0 +1,9 @@
+{
+  "name": "ai-out-of-office",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test main.test.ts"
+  }
+}
